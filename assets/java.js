@@ -20,7 +20,7 @@
 // //example drink
 // getDrinks("margarita");
 bulmaCarousel.attach("#slider", {
-  slidesToScroll: 1,
+  slidesToScroll: 3,
   slidesToShow: 3,
   infinite: true,
 });
